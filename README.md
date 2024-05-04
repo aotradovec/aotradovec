@@ -19,8 +19,9 @@ Experiences:
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 ## 🕑 Working since 2018; Tracking since 2019 🕑
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
-
 ```text
 From: 17 March 2019 - To: 03 May 2024
 
@@ -32,5 +33,4 @@ JSX                        534 hrs 55 mins ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON                       217 hrs 19 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.35 %
 Other                      80 hrs 41 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 %
 ```
-
 <!--END_SECTION:waka-simple-->
