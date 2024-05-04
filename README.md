@@ -18,3 +18,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <img width=350px height=150px src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aotradovec&layout=compact&theme=dark" />
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
