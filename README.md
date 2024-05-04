@@ -5,7 +5,10 @@
 </a>
 
 <br>
+<br>
 
+Experiences:
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -14,12 +17,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Node.js](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<img width=350px height=150px src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aotradovec&layout=compact&theme=dark" />
-
-## 🕑
+## 🕑 Working since 2018; Tracking since 2019 🕑
 <!--START_SECTION:waka-simple-->
 
 ```text
