@@ -25,7 +25,7 @@ Experiences:
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 17 March 2019 - To: 10 May 2024
+From: 17 March 2019 - To: 11 May 2024
 
 Total Time: 5,039 hrs 53 mins
 
