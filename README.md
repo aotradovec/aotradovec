@@ -17,24 +17,3 @@ Experiences:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Node.js](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-
-## 🕑 Working since 2018; Tracking since 2019 🕑
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 17 March 2019 - To: 30 November 2024
-
-Total Time: 5,660 hrs 49 mins
-
-TypeScript                 3,090 hrs 27 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.59 %
-JavaScript                 1,242 hrs 44 mins⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.95 %
-JSX                        534 hrs 55 mins ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.45 %
-JSON                       235 hrs 34 mins ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.16 %
-YAML                       87 hrs 22 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.54 %
-Other                      82 hrs 10 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.45 %
-```
-
-<!--END_SECTION:waka-simple-->
